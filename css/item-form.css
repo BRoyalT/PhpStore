@@ -1,0 +1,19 @@
+table {
+  width: 100%;
+}
+tr td:first-child { 
+  width: 0; 
+}
+input[name='name'] {
+  width: 500px;
+}
+input[name='price'] {
+  width: 50px;
+}
+textarea[name='description']{
+  width: 500px;
+  height: 200px;
+}
+input[name='image']{
+  width: 500px;
+}

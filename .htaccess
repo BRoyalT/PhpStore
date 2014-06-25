@@ -1,0 +1,16 @@
+<Files addItems.php>
+  order allow,deny
+#  allow from all
+</Files>
+<Files addUsers.php>
+  order allow,deny
+#  allow from all
+</Files>
+<Files addOrders.php>
+  order allow,deny
+#  allow from all
+</Files>
+<Files createStore.php>
+  order allow,deny
+#  allow from all
+</Files>
